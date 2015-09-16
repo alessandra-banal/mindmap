@@ -1,0 +1,57 @@
+body{
+	font-size: 16px;
+	background: #b9dca8;
+}
+
+h1,
+h2{
+	font-family: helvetica, sans-serif;
+}
+
+h1{
+	font-size: 30px;
+	letter-spacing: .5em;
+	color:  #0750ef;
+}
+
+h2{
+	font-size:20px; 
+	color: #7b7c7c;
+	text-decoration: underline;
+}
+
+p{
+
+}
+
+
+/* Layout
+----------------------------------------------*/
+header{
+	margin: 0 auto;
+	margin-left: 50px;
+	
+}
+
+.wrapper{
+	margin:0 auto;
+	max-width: 600px;
+
+}
+
+#freelance,
+#company{
+	margin-top: 5em;
+}
+
+
+#freelance{
+
+	float: left;
+
+}
+
+#company{
+	float:right;
+
+}
